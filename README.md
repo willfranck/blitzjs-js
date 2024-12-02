@@ -1,4 +1,4 @@
-# Blitzjs.com - Website & Docs
+# Blitz-js
 
 ### Installation
 
